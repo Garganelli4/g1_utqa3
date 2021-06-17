@@ -13,6 +13,16 @@
 [This is a link](http://google.com)
 
 ![This is a image](https://i.pinimg.com/originals/94/1d/99/941d99ab7b41cf36ce2e1023f23a7cc2.png)
+
 ```python
 print("Hello World.")
 ```
+
+ | First name | Last name |
+ |-----------:| ----------|
+ |Johnn|Doe|
+ |Jane|Doe|
+ 
+ > This is a quote...
+
+ <h1>Header 1 for HTML</h1>
